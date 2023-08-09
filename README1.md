@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://instagram.com/__devp_pronoy_x001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__devp_pronoy_x001" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/lil_pronoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lil_pronoy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@pronoyroy782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pronoyroy782" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pronoyroy782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pronoyroy782" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
